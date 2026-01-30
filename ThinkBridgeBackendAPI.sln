@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36908.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThinkBridgeBackendAPI", "ThinkBridgeBackendAPI\ThinkBridgeBackendAPI.csproj", "{8F14B840-B808-45BE-B892-FE48E4C8F5E0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8F14B840-B808-45BE-B892-FE48E4C8F5E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F14B840-B808-45BE-B892-FE48E4C8F5E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F14B840-B808-45BE-B892-FE48E4C8F5E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F14B840-B808-45BE-B892-FE48E4C8F5E0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A92AC8E2-EA42-4C70-AF11-61DD5096643D}
+	EndGlobalSection
+EndGlobal
